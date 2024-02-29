@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+  @apply bg-[url('/public/background.jpg')] bg-center bg-cover bg-no-repeat w-screen  
+}
