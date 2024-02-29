@@ -36,7 +36,7 @@
 
 **<p>You can access the project live below.</p>**
 
-<a href="react-todo-list-web-site.netlify.app">react-todo-list-web-site.netlify.app</a>
+<a href="https://react-todo-list-web-site.netlify.app/">https://react-todo-list-web-site.netlify.app/</a>
 <br>
 <br>
 <br>
